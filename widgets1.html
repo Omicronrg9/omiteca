@@ -8,7 +8,7 @@
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>My Socials</title>
+  <title>Redes sociales</title>
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css">
 
   <style>
@@ -41,7 +41,10 @@
     .blog:hover {
       color: #ffbd2f;
     }
-
+    .fs:hover {
+      color: #f2c224
+    }
+    
     .email:hover {
       color: #23c8c8;
     }
@@ -81,6 +84,9 @@
     .telegram:hover {
       color: #2AABEE;
     }
+    .yc:hover {
+      color: #DD82F3
+    }
 
     .social {
       position: relative;
@@ -96,6 +102,13 @@
   <body>
 
     <div class="wrapper">
+      <!-- Start fs Icon -->
+      <div id="fs" onClick="navigate(this.id)" class="social">
+        <span class="icon fs"><i class="fa-regular fa-music-magnifying-glass"></i></span>
+        <div id="fshover"><span title="fs hover">Free-scores</span>
+        </div>
+      </div>
+      <!-- End fs icon -->
 
       <!-- Start email Icon -->
       <div id="email" onclick="navigate(this.id)" class="social">
@@ -133,6 +146,12 @@
       </div>
       <!-- End telegram Icon -->
 
+      <!-- Start YC icon -->
+      <div id="yc" onclick="navigate(this.id)" class="social">
+        <span class="icon yc"><i class="fa-sharp fa-thin fa-file-music"></i></span>
+      </div>
+      <!-- End YC icon -->
+
 
 
     </div>
@@ -150,6 +169,10 @@
 
         else if (id === "email") {
           window.open("mailto:omicronrg9@gmail.com", '_blank').focus(); //Add your email after "mailto:""
+        }
+
+        else if (id === "fs") {
+          window.open("https://www.free-scores.com/Download-PDF-Sheet-Music-omicronrg9.htm",'_blank').focus(); // Free-scores url.
         }
 
         else if (id === "facebook") {
@@ -178,6 +201,9 @@
         }
         else if (id === "telegram") {
           window.open("https://t.me/OmicronChan", '_blank').focus(); //Add the url to your telegram account
+        }
+        else if (id === "yc") {
+          window.open("https://www.youngcomposers.com/p20835/omicronrg9",'_blank').focus(); // YC link
         }
       }
 
