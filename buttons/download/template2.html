@@ -39,23 +39,11 @@
     }
 
 
-    .arr:hover {
-      color: #6D97EC;
+    .pdf:hover {
+      color: #6DECB5;
     }
-    .comp:hover {
-      color: #f2c224
-    }
-    
-    .email:hover {
-      color: #23c8c8;
-    }
-
-    .facebook:hover {
-      color: #4267B2;
-    }
-
-    .instagram:hover {
-      color: rgb(241, 102, 217);
+    .mp3:hover {
+      color: #EC7E6D;
     }
     .btn {
       position: relative;
@@ -72,8 +60,13 @@
 
     <div class="wrapper">
       <!-- PDF Icon -->
-      <div id="arr" onClick="navigate(this.id)" class="social">
-        <span title="Página de Free-scores" class="icon fs"><i class="fas fa-file-audio"></i></span>
+      <div id="pdf" onClick="navigate(this.id)" class="social">
+        <span title="Descargar PDF" class="icon arr"><i class="fi-xnsuxl-file-pdf-solid"></i></i></span>
+      </div>
+      <!-- End PDF icon -->
+      <!-- PDF Icon -->
+      <div id="mp3" onClick="navigate(this.id)" class="social">
+        <span title="Descargar MP3" class="icon comp"><i class="fas fa-file-audio"></i></span>
       </div>
       <!-- End PDF icon -->
     </div>
@@ -82,9 +75,18 @@
 
 
     <script>
-    function navigate() {
-      window.open("https://example.com", '_blank').focus();
-    }
+     function navigate(id) {
+
+        //if you want the URL to open in the same window use '_parent'  instead of '_blank'
+
+        if (id === "arr")
+          window.open("https://blog.shorouk.dev", '_blank').focus(); //Add the url to your blog
+
+        else if (id === "comp") {
+          window.open("mailto:omicronrg9@gmail.com", '_blank').focus(); //Add your email after "mailto:""
+        }
+      }
+
     </script>
 
 
