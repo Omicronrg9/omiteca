@@ -38,7 +38,7 @@
       color: inherit;
       border: none;
       padding: 0;
-      font: monospace,monospace;
+      font: inherit;
       cursor: pointer;
       outline: inherit;
     }
@@ -50,9 +50,9 @@
     .btn {
       text-align: center;
       color: #ffffff;
-      font-family: 'Manrope';
+      font-family: Consolas, monaco, monospace;
       display: inline-block;
-      margin: 10px;
+      margin: 7px;
     }
 
     .my-color {
@@ -71,6 +71,42 @@
       box-shadow: 0 0;
       background-color: var(--my-color-accent);
     }
+    /* Efectos para botón de arreglos */
+    .arreglos {
+      background-color: var(--arreglos);
+    }
+
+    .arreglos:hover {
+      background-color: var(--arreglos-accent);
+    }
+
+    .arreglos.threeD {
+      box-shadow: 0px 4px 0px var(--arreglos-accent);
+    }
+
+    .arreglos.threeD:active {
+      box-shadow: 0 0;
+      background-color: var(--arreglos);
+    }
+    /* Efectos para botón de composiciones.
+    Lo más probable es que los vaya modificando poco a poco*/
+    .compos {
+      background-color: var(--compos);
+    }
+
+    .my-color:hover {
+      background-color: var(--compos-accent);
+    }
+
+    .my-color.threeD {
+      box-shadow: 0px 4px 0px var(--compos-accent);
+    }
+
+    .my-color.threeD:active {
+      box-shadow: 0 0;
+      background-color: var(--compos-accent);
+    }
+    /* Fin de lo nuevo 20/8/24 */
     .black {
       background-color: var(--black);
     }
