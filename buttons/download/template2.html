@@ -5,10 +5,11 @@
 <html lang="en">
 
 <head>
+  <script defer src="https://friconix.com/cdn/friconix.js"> </script>
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Redes sociales</title>
+  <title></title>
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css">
 
   <style>
@@ -20,7 +21,7 @@
 
     body {
       display: grid;
-      font-family: "Poppins", sans-serif;
+      font-family: Consolas, monaco, monospace;
       place-items: center;
     }
 
@@ -38,10 +39,10 @@
     }
 
 
-    .blog:hover {
-      color: #ffbd2f;
+    .arr:hover {
+      color: #6D97EC;
     }
-    .fs:hover {
+    .comp:hover {
       color: #f2c224
     }
     
@@ -56,39 +57,7 @@
     .instagram:hover {
       color: rgb(241, 102, 217);
     }
-
-    .linkedin:hover {
-      color: #0e76a8;
-    }
-
-    .twitter:hover {
-      color: #26a7de;
-    }
-
-    .reddit:hover {
-      color: #ff4500;
-    }
-
-    .tiktok:hover {
-      color: #ff0050;
-    }
-
-    .youtube:hover {
-      color: #FF0000;
-    }
-
-    .pinterest:hover {
-      color: #c8232c;
-    }
-
-    .telegram:hover {
-      color: #2AABEE;
-    }
-    .yc:hover {
-      color: #DD82F3
-    }
-
-    .social {
+    .btn {
       position: relative;
       margin: 10px;
       cursor: pointer;
@@ -102,109 +71,20 @@
   <body>
 
     <div class="wrapper">
-      <!-- Start fs Icon -->
-      <div id="fs" onClick="navigate(this.id)" class="social">
+      <!-- PDF Icon -->
+      <div id="arr" onClick="navigate(this.id)" class="social">
         <span title="Página de Free-scores" class="icon fs"><i class="fas fa-file-audio"></i></span>
       </div>
-      <!-- End fs icon -->
-
-      <!-- Start email Icon -->
-      <div id="email" onclick="navigate(this.id)" class="social">
-        <span class="icon email"><i class="fa-solid fa-envelope"></i></span>
-      </div>
-      <!-- End email Icon -->
-
-      <!-- Start facebook Icon -->
-      <div id="facebook" onclick="navigate(this.id)" class="social">
-        <span class="icon facebook"><i class="fab fa-facebook"></i></span>
-      </div>
-      <!-- End facebook Icon -->
-
-      <!-- Start linkedin Icon -->
-      <div id="linkedin" onclick="navigate(this.id)" class="social">
-        <span class="icon linkedin"><i class="fab fa-linkedin"></i></span>
-      </div>
-      <!-- End linkedin Icon -->
-
-      <!-- Start twitter Icon -->
-      <div id="twitter" onclick="navigate(this.id)" class="social">
-        <span title="Cuenta de X" class="icon twitter"><i class="fab fa-twitter"></i></span>
-      </div>
-      <!-- End twitter Icon -->
-
-      <!-- Start youtube Icon -->
-      <div id="youtube" onclick="navigate(this.id)" class="social">
-        <span title="Canal de YouTube" class="icon youtube"><i class="fab fa-youtube"></i></span>
-      </div>
-      <!-- End youtube Icon -->
-
-      <!-- Start telegram Icon -->
-      <div id="telegram" onclick="navigate(this.id)" class="social">
-        <span title="Canal de telegram" class="icon telegram"><i class="fab fa-telegram"></i></span>
-      </div>
-      <!-- End telegram Icon -->
-
-      <!-- Start YC icon -->
-      <div id="yc" onclick="navigate(this.id)" class="social">
-        <span title="Foro de Young Composers" class="icon yc"><i class="fas fa-drum"></i></span>
-      </div>
-      <!-- End YC icon -->
-
-
-
+      <!-- End PDF icon -->
     </div>
 
 
 
 
     <script>
-      function navigate(id) {
-
-        //if you want the URL to open in the same window use '_parent'  instead of '_blank'
-
-        if (id === "blog")
-          window.open("https://blog.shorouk.dev", '_blank').focus(); //Add the url to your blog
-
-        else if (id === "email") {
-          window.open("mailto:omicronrg9@gmail.com", '_blank').focus(); //Add your email after "mailto:""
-        }
-
-        else if (id === "fs") {
-          window.open("https://www.free-scores.com/Download-PDF-Sheet-Music-omicronrg9.htm",'_blank').focus(); // Free-scores url.
-        }
-
-        else if (id === "facebook") {
-          window.open("https://www.facebook.com/Omicronrg9", '_blank').focus(); //Add the url to your facebook page or account
-        }
-        else if (id === "instagram") {
-          window.open("instagram.com", '_blank').focus(); //Add the url to your instagram account
-        }
-        else if (id === "linkedin") {
-          window.open("https://www.linkedin.com/in/omicronrg9/", '_blank').focus(); //Add the url to your pinterest account
-        }
-        else if (id === "twitter") {
-          window.open("https://x.com/Omicronrg9", '_blank').focus(); //Add the url to your pinterest account
-        }
-        else if (id === "reddit") {
-          window.open("https://www.reddit.com/", '_blank').focus(); //Add the url to your reddit account
-        }
-        else if (id === "tiktok") {
-          window.open("https://www.tiktok.com/", '_blank').focus(); //Add the url to your tiktok account
-        }
-        else if (id === "youtube") {
-          window.open("https://www.youtube.com/@Omicronrg9", '_blank').focus(); //Add the url to your youtube account
-        }
-        else if (id === "pinterest") {
-          window.open("https://www.pinterest.com/", '_blank').focus(); //Add the url to your pinterest account
-        }
-        else if (id === "telegram") {
-          window.open("https://t.me/OmicronChan", '_blank').focus(); //Add the url to your telegram account
-        }
-        else if (id === "yc") {
-          window.open("https://www.youngcomposers.com/p20835/omicronrg9",'_blank').focus(); // YC link
-        }
-      }
-
+    function navigate() {
+      window.open("https://example.com", '_blank').focus();
+    }
     </script>
 
 
