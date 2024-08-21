@@ -45,7 +45,6 @@
     .mp3:hover {
       color: #ec7e6d;
     }
-    
     .bt {
       position: relative;
       margin: 15px;
@@ -62,13 +61,16 @@
 
     <div class="wrapper">
       <!-- PDF Icon -->
-      <div id="pdf" onClick="navigate(this.id)" class="bt">
-        <span title="Descargar PDF" class="icon pdf"><i class="fi-xnsuxl-file-pdf-solid"></i></span>
+      <div id="pdf" onclick="navigate(this.id)" class="bt">
+        <span class="icon facebook"><i class="fi-xnsuxl-file-pdf-solid"></i></span>
       </div>
-      <div id="mp3" onClick="navigate(this.id)" class="btn">
-        <span title="Descargar MP3" class="icon mp3"><i class="fi-xnsuxl-file-mp3-solid"></i></span>
+      <!-- E. PDF Icon -->
+
+      <!-- MP3 Icon -->
+      <div id="linkedin" onclick="navigate(this.id)" class="social">
+        <span class="icon linkedin"><i class="fi-xnsuxl-file-mp3-solid"></i></span>
       </div>
-      <!-- End PDF icon -->
+      <!-- End MP3 Icon -->
     </div>
 
 
@@ -77,7 +79,7 @@
     <script>
      function navigate(id) {
 
-        //if you want the URL to open in the same window use '_parent'  instead of '_blank'
+        //if you want the URL to open in the same window use '_parent'  instead of '_blank'. Key advice.
 
         if (id === "pdf")
           window.open("https://www.example.com", '_blank').focus(); //PDF Dropbox 
