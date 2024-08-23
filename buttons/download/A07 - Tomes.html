@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+
+<!-- Author: Shorouk Abdelaziz  https://shorouk.dev -->
+
+<html lang="en">
+
+<head>
+  <script defer src="https://friconix.com/cdn/friconix.js"> </script>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title></title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css">
+
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    body {
+      display: grid;
+      font-family: Consolas, monaco, monospace;
+      place-items: center;
+    }
+
+    .wrapper {
+      padding-top: 10px;
+      display: inline-flex;
+
+    }
+
+    .icon {
+      /* Change the icon size here */
+      font-size: 3em;
+      /* Change the icons colours here*/
+      color: #adcefe
+    }
+
+
+    .pdf:hover {
+      color: #6dec85;
+    }
+    .mp3:hover {
+      color: #ec7e6d;
+    }
+    .bt {
+      position: relative;
+      margin: 0;
+      cursor: pointer;
+    }
+    
+  </style>
+
+</head>
+
+<body>
+
+  <body>
+
+    <div class="wrapper">
+      <!-- PDF Icon -->
+      <div id="pdf" onclick="navigate(this.id)" class="bt">
+        <span title="Descargar PDF" class="icon pdf"><i class="fi-xnsuxl-file-pdf-solid"></i></span>
+      </div>
+      <!-- E. PDF Icon -->
+
+      <!-- MP3 Icon -->
+      <div id="mp3" onclick="navigate(this.id)" class="bt">
+        <span title="Descargar MP3" class="icon mp3"><i class="fi-xnsuxl-file-mp3-solid"></i></span>
+      </div>
+      <!-- End MP3 Icon -->
+    </div>
+
+
+
+
+    <script>
+     function navigate(id) {
+
+        //if you want the URL to open in the same window use '_parent'  instead of '_blank'. Key advice!!
+
+        if (id === "pdf")
+          window.open("https://www.dropbox.com/scl/fi/mcj0qi07dmcm41osvrz81/A7-The-Binding-of-Isaac-Tomes-Arreglo.pdf?rlkey=9bxharu5sg81e66an07p3w5a1&dl=1", '_blank').focus(); //PDF Dropbox 
+
+        else if (id === "mp3") {
+          window.open("https://www.dropbox.com/scl/fi/oz3pf0e3qwazvxhpnb4qc/Tomes.mp3?rlkey=14kbr9xreuppehipqukkhzia1&dl=1", '_blank').focus(); //MP3 Dropbox or Notion or whatever.
+        }
+      }
+
+    </script>
+
+
+
+  </body>
+
+</html>

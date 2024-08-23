@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+
+<!-- Author: Shorouk Abdelaziz  https://shorouk.dev -->
+<!-- Editor: Daniel–Ømicrón Rodríguez García https://omiteca.notion.site -->
+<!-- Arreglo Nº12: Pixel Dungeon Main theme (Cube_code) -->
+
+<html lang="en">
+
+<head>
+  <script defer src="https://friconix.com/cdn/friconix.js"> </script>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title></title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css">
+
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    body {
+      display: grid;
+      font-family: Consolas, monaco, monospace;
+      place-items: center;
+    }
+
+    .wrapper {
+      padding-top: 10px;
+      display: inline-flex;
+
+    }
+
+    .icon {
+      /* Change the icon size here */
+      font-size: 3em;
+      /* Change the icons colours here*/
+      color: #adcefe
+    }
+
+
+    .pdf:hover {
+      color: #6dec85;
+    }
+    .mp3:hover {
+      color: #ec7e6d;
+    }
+    .bt {
+      position: relative;
+      margin: 0;
+      cursor: pointer;
+    }
+    
+  </style>
+
+</head>
+
+<body>
+
+  <body>
+
+    <div class="wrapper">
+      <!-- PDF Icon -->
+      <div id="pdf" onclick="navigate(this.id)" class="bt">
+        <span title="Descargar PDF (Completo+Partes)" class="icon pdf"><i class="fi-xnsuxl-file-pdf-solid"></i></span>
+      </div>
+      <!-- E. PDF Icon -->
+
+      <!-- MP3 Icon -->
+      <div id="mp3" onclick="navigate(this.id)" class="bt">
+        <span title="Descargar MP3" class="icon mp3"><i class="fi-xnsuxl-file-mp3-solid"></i></span>
+      </div>
+      <!-- End MP3 Icon -->
+    </div>
+
+
+
+
+    <script>
+     function navigate(id) {
+
+        //if you want the URL to open in the same window use '_parent'  instead of '_blank'. Key advice.
+
+        if (id === "pdf")
+          window.open("https://www.dropbox.com/scl/fi/kl9nbgwt0i9rzie5shm8n/A12-Pixel-Dungeon-Main-Theme.pdf?rlkey=6m06jotr3l7m3jj56lw649z6v&dl=0", '_blank').focus(); // PDMT PDF
+
+        else if (id === "mp3") {
+          window.open("https://www.dropbox.com/scl/fi/ey1v1lskz0o92v8tazp0z/Pixel-Dungeon-Main-Theme.mp3?rlkey=wl4uhvkimgsv9v9cxlys78m7v&dl=0", '_blank').focus(); // PDMT MP3
+        }
+      }
+
+    </script>
+
+
+
+  </body>
+
+</html>
