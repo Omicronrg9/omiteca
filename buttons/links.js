@@ -81,24 +81,24 @@ window.LINKS = {
     MP3: "https://www.dropbox.com/scl/fi/17r55j5eqmyn9g19cpvr9/A-media-luz-Arr..mp3?rlkey=lb3ajd0uv4nx34m0mqduywing&dl=0"
   },
   A26: {
-    PDF: "26pdf",
-    MP3: "A26mp3"
+    PDF: "https://www.dropbox.com/scl/fi/vbepgbawjhb5ktem1lp77/A26-Serenity-variations.pdf?rlkey=09quyt2jdp14h04x8h81rl0fb&dl=0",
+    MP3: "https://www.dropbox.com/scl/fi/snyy8hwqb0cfzo2s2ry1b/Serenity-Variations.mp3?rlkey=r05s6i0dc7b7padzd5swop3d6&dl=0"
   },
   A27: {
-    PDF: "27pdf",
-    MP3: "A27mp3"
+    PDF: "https://www.dropbox.com/scl/fi/41cmvkkawohkai7df7q5p/A27-Palladio.zip?rlkey=cjtk3fwxvcsx3ld012vjeawno&dl=0",
+    MP3: "https://www.dropbox.com/scl/fi/3a20dcpci580ig7jnj108/Palladio-Arr..mp3?rlkey=bosdqycryszxj0j5o53mdww1w&dl=0"
   },
   A28: {
-    PDF: "28pdf",
-    MP3: "A28mp3"
+    PDF: "https://www.dropbox.com/scl/fi/vpri08u2wj19oui4dvz1u/A28-D-nde-est-s-coraz-n.zip?rlkey=6ft1pm8nhr39z133d578wnj8x&dl=0",
+    MP3: "https://www.dropbox.com/scl/fi/79qrimapvsvsi5fbf62bv/D-nde-est-s-coraz-n-Tango-Arr..mp3?rlkey=b7bjync9h0xrll1rrrj7zw73q&dl=0"
   },
   A29: {
-    PDF: "29pdf",
-    MP3: "A29mp3"
+    PDF: "https://www.dropbox.com/scl/fo/w8rlltx2upgpmwvjn6c1v/AA_VOzkdftkHgvjjc2_f1uM?rlkey=pcm8qls2y1ze26zvar36qysy1&dl=0",
+    MP3: "https://www.dropbox.com/scl/fi/tppdcot8rks72am8i14ss/St-ndchen-Completo.mp3?rlkey=ckgw34txbolyyj8su0eaulwry&dl=0"
   },
   A30: {
-    PDF: "30pdf",
-    MP3: "A30mp3"
+    PDF: "https://www.dropbox.com/scl/fi/j0m2ajmdjy879sh1ym7x7/A30-Cambalache.zip?rlkey=at6eg4o23nabhhjkbu0um8ifq&dl=0",
+    MP3: "https://www.dropbox.com/scl/fi/79qrimapvsvsi5fbf62bv/D-nde-est-s-coraz-n-Tango-Arr..mp3?rlkey=b7bjync9h0xrll1rrrj7zw73q&dl=0"
   },
   A31: {
     PDF: "31pdf",
