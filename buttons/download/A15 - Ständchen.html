@@ -69,7 +69,7 @@
     <div class="wrapper">
       <!-- PDF Icon -->
       <div id="pdf" onclick="navigate(this.id)" class="bt">
-        <span title="No disponible" class="noicon pdf"><i class="fi-xnpuxl-file-pdf-solid"></i></span>
+        <span title="Descargar PDFs" class="noicon pdf"><i class="fi-xnsuxl-file-pdf-solid"></i></span>
       </div>
       <!-- E. PDF Icon -->
 
@@ -82,19 +82,33 @@
 
 
 
-
+	<script src="../links.js"></script>
     <script>
      function navigate(id) {
 
         //if you want the URL to open in the same window use '_parent'  instead of '_blank'. Key advice.
 
         if (id === "pdf")
-          window.open("", '_blank').focus(); 
+          window.open(window.LINKS.A15.PDF, '_blank').focus(); 
 
         else if (id === "mp3") {
-          window.open("https://www.dropbox.com/scl/fi/6hp9x32e2l3fdz1diexb5/St-ndchen.mp3?rlkey=90r23gkhuxnxzwmeeo3uqy869&dl=0", '_blank').focus();
+          window.open(window.LINKS.A15.MP3, '_blank').focus();
         }
       }
+	  (function(){
+	 function setBodyBackground(){
+		try{
+			const isDark = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
+			document.body.style.background = isDark ? '#191919' : '#ffffff';
+		} catch(e) {
+			document.body.style.background = '#ffffff';
+			}
+			}
+			if(window.matchMedia){
+			window.matchMedia('(prefers-color-scheme: dark)').addListener(setBodyBackground);
+			}
+			setBodyBackground();
+			})();
 
     </script>
 
