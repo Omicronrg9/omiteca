@@ -61,24 +61,24 @@ window.LINKS = {
     MP3: "https://www.dropbox.com/scl/fi/dazgpbeez5m8ivzwzl72g/Amparito-Roca-Arr..mp3?rlkey=vespa83wavqdr98pyflo1kcm7&dl=0"
   },
   A21: {
-    PDF: "21pdf",
-    MP3: "A21mp3"
+    PDF: "https://www.dropbox.com/scl/fi/diohzda4ea9btrepp2jaq/A21-Campanas-de-la-Mezquita.zip?rlkey=kselmu8r6nskv0amm3vvixau1&dl=0",
+    MP3: "https://www.dropbox.com/scl/fi/7efn2f3m14p2suiw8cotg/Campanas-de-la-Mezquita-V2-Arr..mp3?rlkey=gflwg7g3kymwwlwy077zdu5zz&dl=0"
   },
   A22: {
-    PDF: "22pdf",
-    MP3: "A22mp3"
+    PDF: "https://www.dropbox.com/scl/fi/o8o1g87enkwyxurk98fge/A22-Alma-coraz-n-y-vida.zip?rlkey=cuz1p37zkm6orph2obdtm14ls&dl=0",
+    MP3: "https://www.dropbox.com/scl/fi/rrzcr872y3lewpyk6oj2e/Alma-coraz-n-y-vida.mp3?rlkey=9ke8auyx6xo5wwce9cg2g7qu3&dl=0"
   },
   A23: {
-    PDF: "23pdf",
-    MP3: "A23mp3"
+    PDF: "https://www.dropbox.com/scl/fi/izppzzronyujpoy32r8wm/A23-Vals-N-2.zip?rlkey=i3giq9sbri0dduwnyhejwnv6k&dl=0",
+    MP3: "https://www.dropbox.com/scl/fi/ws4af9y2chyfm2vbm4qfy/Vals-N-2-Arr.-2Ed-2.mp3?rlkey=qkdqz3xte7rnb2ex5cgzbocq4&dl=0"
   },
   A24: {
-    PDF: "24pdf",
-    MP3: "A24mp3"
+    PDF: "https://www.dropbox.com/scl/fi/a886acdsq19sy6dw9v6mh/A24-Tr-o-N-39-Arreglo-Completo.pdf?rlkey=nozez84f2911yl2sf5mpw4yun&dl=0",
+    MP3: "https://www.dropbox.com/scl/fi/u0wqz0onszynyvxt613yw/Tr-o-N-39-Arr.-AC.mp3?rlkey=mez3fezknofb0am1xemljujou&dl=0"
   },
   A25: {
-    PDF: "25pdf",
-    MP3: "A25mp3"
+    PDF: "https://www.dropbox.com/scl/fi/xvadt6xszssbz136nqlkv/A25-A-media-Luz.zip?rlkey=scd1eflle66l319zenz3a3kp2&dl=0",
+    MP3: "https://www.dropbox.com/scl/fi/17r55j5eqmyn9g19cpvr9/A-media-luz-Arr..mp3?rlkey=lb3ajd0uv4nx34m0mqduywing&dl=0"
   },
   A26: {
     PDF: "26pdf",
