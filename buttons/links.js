@@ -1,7 +1,8 @@
 // Configuración centralizada de links, a ver qué tal funciona. Mejor esto que estar modificando docenas de archivos, ¿no?
 
 // Espero que sí. Aquí los 100 primeros arreglos. Del 100 al 200, en otro js. Para no sobrecargar.
-
+// Importante tener a mano la carpeta de audios para saber cuál es cuál. Aquí no lo voy a comentar por motivos de eficiencia.
+// Si acaso, los que están antes del 7 los pongo en otro archivo. Por el momento los dejamos en "No disponible" (17/02/2026)
 window.LINKS = {
   A07: {
     PDF: "https://www.dropbox.com/scl/fi/mcj0qi07dmcm41osvrz81/A7-The-Binding-of-Isaac-Tomes-Arreglo.pdf?rlkey=9bxharu5sg81e66an07p3w5a1&dl=0",
@@ -20,19 +21,19 @@ window.LINKS = {
     MP3: "https://www.dropbox.com/scl/fi/oibsaohhaka9xb363m76f/The-Binding-of-Isaac.mp3?rlkey=hzfox2mjtmbn2f8dvgqfm6u97&dl=0"
   },
   A11: {
-    PDF: "11pdf",
+    PDF: "https://www.dropbox.com/scl/fo/zpyby5ij8bongryqs466p/ADasqVCl7BtKlH16dNL9-qc?rlkey=4jk40iijj6mah8t8kpxus3lsh&dl=0",
     MP3: "https://www.dropbox.com/scl/fi/1tymvk3xopk42kezpxhll/The-Calm-Variations-II.mp3?rlkey=jaa4zyuw42xkuwvnvycx3hstd&dl=0"
   },
   A12: {
-    PDF: "12pdf",
+    PDF: "https://www.dropbox.com/scl/fi/kl9nbgwt0i9rzie5shm8n/A12-Pixel-Dungeon-Main-Theme.pdf?rlkey=6m06jotr3l7m3jj56lw649z6v&dl=0",
     MP3: "https://www.dropbox.com/scl/fi/ey1v1lskz0o92v8tazp0z/Pixel-Dungeon-Main-Theme.mp3?rlkey=wl4uhvkimgsv9v9cxlys78m7v&dl=0"
   },
   A13: {
-    PDF: "13pdf",
+    PDF: "https://www.dropbox.com/scl/fi/b6rhjizs3wgkseiepoyeq/A13-Latter-Days.pdf?rlkey=zxv83qe9m6u326xtr6dmppb1f&dl=0",
     MP3: "https://www.dropbox.com/scl/fi/ybcdhe7h1vlr0p34949l5/Latter-Days.mp3?rlkey=ji55z0ot21kk1ji3xc9u6522n&dl=0"
   },
   A14: {
-    PDF: "14pdf",
+    PDF: "https://www.dropbox.com/scl/fi/18clpzy07cco6vuauq23d/A14-Dan-Dan-Kokoro-Hikareteku.zip?rlkey=zyahyxfekrt8asnrhvdvqfwly&dl=0",
     MP3: "https://www.dropbox.com/scl/fi/2lvt0sz36vrd26hssgozm/Dan-Dan-kokoro-hikareteku.mp3?rlkey=wxkxs1z50fes5ji2119xla08q&dl=0"
   },
   A15: {

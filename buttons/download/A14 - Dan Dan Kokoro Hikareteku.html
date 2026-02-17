@@ -78,19 +78,33 @@
 
 
 
+    <script src="../links.js"></script>
     <script>
      function navigate(id) {
 
-        //if you want the URL to open in the same window use '_parent'  instead of '_blank'. Key advice.
+        //if you want the URL to open in the same window use '_parent'  instead of '_blank'. Key advice!!
 
         if (id === "pdf")
-          window.open("https://www.dropbox.com/scl/fi/18clpzy07cco6vuauq23d/A14-Dan-Dan-Kokoro-Hikareteku.zip?rlkey=zyahyxfekrt8asnrhvdvqfwly&dl=0", '_blank').focus();
+          window.open(window.LINKS.A14.PDF, '_blank').focus(); //PDF Dropbox 
 
         else if (id === "mp3") {
-          window.open("https://www.dropbox.com/scl/fi/2lvt0sz36vrd26hssgozm/Dan-Dan-kokoro-hikareteku.mp3?rlkey=wxkxs1z50fes5ji2119xla08q&dl=0", '_blank').focus();
+          window.open(window.LINKS.A14.MP3, '_blank').focus(); // MP3 Dropbox
         }
       }
-
+	  (function(){
+	 function setBodyBackground(){
+		try{
+			const isDark = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
+			document.body.style.background = isDark ? '#191919' : '#ffffff';
+		} catch(e) {
+			document.body.style.background = '#ffffff';
+			}
+			}
+			if(window.matchMedia){
+			window.matchMedia('(prefers-color-scheme: dark)').addListener(setBodyBackground);
+			}
+			setBodyBackground();
+			})();
     </script>
 
 
