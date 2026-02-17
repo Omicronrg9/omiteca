@@ -41,24 +41,24 @@ window.LINKS = {
     MP3: "https://www.dropbox.com/scl/fi/6hp9x32e2l3fdz1diexb5/St-ndchen.mp3?rlkey=90r23gkhuxnxzwmeeo3uqy869&dl=0"
   },
   A16: {
-    PDF: "16pdf",
-    MP3: "A16mp3"
+    PDF: "https://www.dropbox.com/scl/fi/2pczd8mk1mtgi322nm6vi/A16-Peric-n.pdf?rlkey=8rou43bb9skfuuha0katipr3p&dl=0",
+    MP3: "https://www.dropbox.com/scl/fi/zh78izczyi7ygargs4ppn/Peric-n.mp3?rlkey=2xxjqvxebhp1qnrbybovpuymt&dl=0"
   },
   A17: {
-    PDF: "17pdf",
-    MP3: "A17mp3"
+    PDF: "https://www.dropbox.com/scl/fi/vdp9fy2nxz8mdkpj6dhzh/A17-El-Vito-v1.1.pdf?rlkey=9q0zyw97s42p64ijs3ldf3e20&dl=0",
+    MP3: "https://www.dropbox.com/scl/fi/wrw1b9w5thyqmlu2qbdaj/El-Vito.mp3?rlkey=1wkbdpwfqea7ei9z74y5p8t2y&dl=0"
   },
   A18: {
-    PDF: "18pdf",
-    MP3: "A18mp3"
+    PDF: "https://www.dropbox.com/scl/fi/xhkot5mdmfthnqvvfbmfl/A18-Cerezo-Rosa.pdf?rlkey=avpxmb83b9l3vb5qf8mdormdr&dl=0",
+    MP3: "https://www.dropbox.com/scl/fi/oi89zlsn3t7364tsch48j/Cerezo-Rosa-Arr..mp3?rlkey=cpib58yqlnlihctul1k56ez9m&dl=0"
   },
   A19: {
-    PDF: "19pdf",
-    MP3: "A19mp3"
+    PDF: "https://www.dropbox.com/scl/fi/ebxsyge485hg5hz4f03dn/A19-El-Fantasma-de-la-pera.zip?rlkey=v754b282toibipvovgcwayhsj&dl=0",
+    MP3: "https://www.dropbox.com/scl/fi/dwnp75cz67vcn7f1nc61s/El-Fantasma-de-la-pera-Arr..mp3?rlkey=n3knrllfly5c1dsfslyy3n69d&dl=0"
   },
   A20: {
-    PDF: "20pdf",
-    MP3: "A20mp3"
+    PDF: "https://www.dropbox.com/scl/fi/ytsgfm1549vhuaozizxd6/A20-Amparito-Roca.zip?rlkey=a9kkpsmfb673ioimwdv3qkf0s&dl=0",
+    MP3: "https://www.dropbox.com/scl/fi/dazgpbeez5m8ivzwzl72g/Amparito-Roca-Arr..mp3?rlkey=vespa83wavqdr98pyflo1kcm7&dl=0"
   },
   A21: {
     PDF: "21pdf",
