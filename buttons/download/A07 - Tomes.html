@@ -1,7 +1,9 @@
 <!DOCTYPE html>
 
 <!-- Author: Shorouk Abdelaziz  https://shorouk.dev -->
-
+<!-- Editor: Daniel–Ømicrón Rodríguez García https://omiteca.notion.site -->
+<!-- Arreglo Nº7: Tomes (I) (Danny Baranowsky) -->
+<!-- Solución al fondo blanco encontrada en Reddit -->
 <html lang="en">
 
 <head>
@@ -20,14 +22,14 @@
     }
 	
 	html {
-		background-color: #202020;
+		background-color: transparent;
 	}
 
     body {
       display: grid;
       font-family: Consolas, monaco, monospace;
       place-items: center;
-	  background-color: #202020;
+	  background-color: transparent;
     }
 
     .wrapper {
@@ -90,10 +92,23 @@
           window.open("https://www.dropbox.com/scl/fi/mcj0qi07dmcm41osvrz81/A7-The-Binding-of-Isaac-Tomes-Arreglo.pdf?rlkey=9bxharu5sg81e66an07p3w5a1&dl=0", '_blank').focus(); //PDF Dropbox 
 
         else if (id === "mp3") {
-          window.open("https://www.dropbox.com/scl/fi/oz3pf0e3qwazvxhpnb4qc/Tomes.mp3?rlkey=14kbr9xreuppehipqukkhzia1&dl=0", '_blank').focus(); //MP3 Dropbox or Notion or whatever.
+          window.open("https://www.dropbox.com/scl/fi/oz3pf0e3qwazvxhpnb4qc/Tomes.mp3?rlkey=14kbr9xreuppehipqukkhzia1&dl=0", '_blank').focus(); //MP3 Dropbox or Notion or whatever. Dropbox this time!
         }
       }
-
+	  (function(){
+	 function setBodyBackground(){
+		try{
+			const isDark = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
+			document.body.style.background = isDark ? '#191919' : '#ffffff';
+		} catch(e) {
+			document.body.style.background = '#ffffff';
+			}
+			}
+			if(window.matchMedia){
+			window.matchMedia('(prefers-color-scheme: dark)').addListener(setBodyBackground);
+			}
+			setBodyBackground();
+			})();
     </script>
 
 
