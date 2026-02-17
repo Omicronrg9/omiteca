@@ -1,0 +1,27 @@
+<script>
+     function navigate(id) {
+
+        //if you want the URL to open in the same window use '_parent'  instead of '_blank'. Key advice. Dl 0, dl 1 does NOT work apparently.
+
+        if (id === "pdf")
+          window.open("LINK PDF", '_blank').focus(); // Partitura completa: más de 60 hojas en total.
+
+        else if (id === "mp3") {
+          window.open("LINK MP3", '_blank').focus(); //Repentant MP3
+        }
+      }
+	  (function(){
+	 function setBodyBackground(){
+		try{
+			const isDark = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
+			document.body.style.background = isDark ? '#191919' : '#ffffff';
+		} catch(e) {
+			document.body.style.background = '#ffffff';
+			}
+			}
+			if(window.matchMedia){
+			window.matchMedia('(prefers-color-scheme: dark)').addListener(setBodyBackground);
+			}
+			setBodyBackground();
+			})();
+    </script>

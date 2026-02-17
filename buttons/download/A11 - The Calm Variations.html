@@ -81,16 +81,29 @@
     <script>
      function navigate(id) {
 
-        //if you want the URL to open in the same window use '_parent'  instead of '_blank'. Key advice.
+        //if you want the URL to open in the same window use '_parent'  instead of '_blank'. Key advice!!
 
         if (id === "pdf")
-          window.open("https://www.dropbox.com/scl/fi/emxzu6unvgpqdeygszxhg/A11-The-calm-Variations.zip?rlkey=zk87slb0kfgxnoaxbjfnd2hbi&dl=0", '_blank').focus(); // TCV PDF
+          window.open("https://www.dropbox.com/scl/fi/mcj0qi07dmcm41osvrz81/A7-The-Binding-of-Isaac-Tomes-Arreglo.pdf?rlkey=9bxharu5sg81e66an07p3w5a1&dl=0", '_blank').focus(); //PDF Dropbox 
 
         else if (id === "mp3") {
-          window.open("https://www.dropbox.com/scl/fi/1tymvk3xopk42kezpxhll/The-Calm-Variations-II.mp3?rlkey=jaa4zyuw42xkuwvnvycx3hstd&dl=0", '_blank').focus(); //TCV MP3
+          window.open("https://www.dropbox.com/scl/fi/oz3pf0e3qwazvxhpnb4qc/Tomes.mp3?rlkey=14kbr9xreuppehipqukkhzia1&dl=0", '_blank').focus(); //MP3 Dropbox or Notion or whatever. Dropbox this time!
         }
       }
-
+	  (function(){
+	 function setBodyBackground(){
+		try{
+			const isDark = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
+			document.body.style.background = isDark ? '#191919' : '#ffffff';
+		} catch(e) {
+			document.body.style.background = '#ffffff';
+			}
+			}
+			if(window.matchMedia){
+			window.matchMedia('(prefers-color-scheme: dark)').addListener(setBodyBackground);
+			}
+			setBodyBackground();
+			})();
     </script>
 
 
