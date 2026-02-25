@@ -1,0 +1,37 @@
+* {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    body {
+      display: grid;
+      font-family: Consolas, monaco, monospace;
+      place-items: center;
+    }
+
+    .wrapper {
+      padding-top: 10px;
+      display: inline-flex;
+
+    }
+
+    .icon {
+      /* Change the icon size here */
+      font-size: 3em;
+      /* Change the icons colours here*/
+      color: #adcefe
+    }
+
+
+    .pdf:hover {
+      color: #6dec85;
+    }
+    .mp3:hover {
+      color: #ec7e6d;
+    }
+    .bt {
+      position: relative;
+      margin: 0;
+      cursor: pointer;
+    }
