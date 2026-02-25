@@ -101,44 +101,44 @@ window.LINKS = {
     MP3: "https://www.dropbox.com/scl/fi/79qrimapvsvsi5fbf62bv/D-nde-est-s-coraz-n-Tango-Arr..mp3?rlkey=b7bjync9h0xrll1rrrj7zw73q&dl=0"
   },
   A31: {
-    PDF: "31pdf",
-    MP3: "A31mp3"
+    PDF: "https://www.dropbox.com/scl/fi/3w5liwq0day60r5j7ajoh/A31-The-Entertainer.zip?rlkey=v3xvabfkttok4a44ocprgqokw&dl=0",
+    MP3: "https://www.dropbox.com/scl/fi/pgd222vhsqys7x6fm6774/The-Entertainer-Arr..mp3?rlkey=m5ppb8nl5hmp6bbofv4xxss8k&dl=0"
   },
   A32: {
-    PDF: "32pdf",
-    MP3: "A32mp3"
+    PDF: "https://www.dropbox.com/scl/fi/cxio6r6ma8tw3k29lvxg3/A32-La-valse-d-Am-lie.zip?rlkey=bl4g5ruy2wuuuwxc4rnjb64lc&dl=0",
+    MP3: "https://www.dropbox.com/scl/fi/qqcwvzpaudo8fhiqt60s4/La-valse-d-Am-lie-Arr..mp3?rlkey=8dzwxv8yhrvng4fohvztgsrbv&dl=0"
   },
   A33: {
-    PDF: "33pdf",
-    MP3: "A33mp3"
+    PDF: "https://www.dropbox.com/scl/fi/of3a8dhgif0prtbzbdkwt/A33-Carrese-sur-l-ocean.zip?rlkey=92tsvn01y1o0gn2vbaygmnevy&dl=0",
+    MP3: "https://www.dropbox.com/scl/fi/tctqb131c6jgarwxhl0me/Carrese-sur-l-ocean-Arr..mp3?rlkey=lrxa14yhfyt572vlnnny1y1mb&dl=0"
   },
   A34: {
-    PDF: "34pdf",
-    MP3: "A34mp3"
+    PDF: "https://www.dropbox.com/scl/fi/ivqm5kpwf65g258h6ymes/A34-Cuando-suena-el-acorde-n.zip?rlkey=pyvtmniaivvhovggc226wvwte&dl=0",
+    MP3: "https://www.dropbox.com/scl/fi/ewi3rqgggm3zbptso16ex/Cuando-suena-el-acorde-n-Arr..mp3?rlkey=lrfe3sa2dedyolt0rgpt1f6lh&dl=0"
   },
   A35: {
-    PDF: "35pdf",
-    MP3: "A35mp3"
+    PDF: "https://www.dropbox.com/scl/fi/dspq1zer42koq9rotgv3w/A35-Forsaken-Sanctuary.zip?rlkey=q04moojph9uu3g45n7bzgbyf1&dl=0",
+    MP3: "https://www.dropbox.com/scl/fi/9385kng0cgp8rxieuv2mn/Forsaken-Sanctuary-Arr..mp3?rlkey=ljmwnxcn5yp2otya1cldvwszt&dl=0"
   },
   A36: {
-    PDF: "36pdf",
-    MP3: "A36mp3"
+    PDF: "https://www.dropbox.com/scl/fi/1tygm523wc7s6b88evm1k/A36-A37-Cold-Nobility-All-Hail-Britannia.zip?rlkey=uiqeywwxsvfehr8wglz1tsjdl&dl=0",
+    MP3: "https://www.dropbox.com/scl/fi/bu4pyll58w2nm5p4dr2gl/Cold-Nobility-Arr..mp3?rlkey=o9amcax069mwk99xh0kvec6l4&dl=0"
   },
   A37: {
-    PDF: "37pdf",
-    MP3: "A37mp3"
+    PDF: "https://www.dropbox.com/scl/fi/1tygm523wc7s6b88evm1k/A36-A37-Cold-Nobility-All-Hail-Britannia.zip?rlkey=uiqeywwxsvfehr8wglz1tsjdl&dl=0",
+    MP3: "https://www.dropbox.com/scl/fi/ff6ezwhhadsy6jx0m23hk/All-hail-Britannia-Arr..mp3?rlkey=oc93h67q6ukz1qpzxl3gw0ks6&dl=0"
   },
   A38: {
-    PDF: "38pdf",
-    MP3: "A38mp3"
+    PDF: "https://www.dropbox.com/scl/fi/etjg6kr9c3jktugdwszd9/A38-Sevillanas-para-conquistar.zip?rlkey=qp4yz7nh1zyyv3t58zc0olssj&dl=0",
+    MP3: "https://www.dropbox.com/scl/fi/eqk7q1lumes23reipc7f5/Sevillanas-para-conquistar.mp3?rlkey=30g4tl5e9domjzzl5e9lurcma&dl=0"
   },
   A39: {
-    PDF: "39pdf",
-    MP3: "A39mp3"
+    PDF: "https://www.dropbox.com/scl/fi/pbhptostq9t2buk25udyg/A39-Caballero-del-Bosque.zip?rlkey=rx120cbooqb5xry8dnpih7rml&dl=0",
+    MP3: "https://www.dropbox.com/scl/fi/ccn5btzz75b0hbpwhpeac/Caballero-del-Bosque.mp3?rlkey=sexef5vejr5xe6xz1tob5hsei&dl=0"
   },
   A40: {
-    PDF: "40pdf",
-    MP3: "A40mp3"
+    PDF: "https://www.dropbox.com/scl/fi/io1h47jibgui4s7bjtwta/A40-Coraz-n-Espinado.zip?rlkey=ajylhdqitte72aqezanv1f7kd&dl=0",
+    MP3: "https://www.dropbox.com/scl/fi/lw0hdyx1a5q9g9ewxrk4k/Coraz-n-Espinado-Arr..mp3?rlkey=udf2602agbgf2oz47q7o4kjuj&dl=0"
   },
   A41: {
     PDF: "41pdf",
