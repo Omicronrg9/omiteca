@@ -141,28 +141,28 @@ window.LINKS = {
     MP3: "https://www.dropbox.com/scl/fi/lw0hdyx1a5q9g9ewxrk4k/Coraz-n-Espinado-Arr..mp3?rlkey=udf2602agbgf2oz47q7o4kjuj&dl=0"
   },
   A41: {
-    PDF: "41pdf",
-    MP3: "A41mp3"
+    PDF: "https://www.dropbox.com/scl/fi/wf9l7z03wo98x77rk9ywb/A41-Fairy-Tail-Main-Theme.zip?rlkey=xtctym7btieb73jy9j5qxx3cl&dl=0",
+    MP3: "https://www.dropbox.com/scl/fi/3byszpuihfiop5mieygio/Fairy-Tail-main-theme-Arr..mp3?rlkey=fa2hh53xiscox8y1d21qnat3c&dl=0"
   },
   A42: {
-    PDF: "42pdf",
-    MP3: "A42mp3"
+    PDF: "https://www.dropbox.com/scl/fi/1ph6bqxgbjyxap8s8vkwf/A42-Soldadito-Espa-ol.zip?rlkey=qbwp4qrucduj14gembi4ckp19&dl=0",
+    MP3: "https://www.dropbox.com/scl/fi/pes7gjg4z8sr40m6j17f6/Soldadito-Espa-ol-Arr..mp3?rlkey=lsi07o4bxu4z7qtjsdlpfvjeb&dl=0"
   },
   A43: {
-    PDF: "43pdf",
-    MP3: "A43mp3"
+    PDF: "https://www.dropbox.com/scl/fi/uuw1r0189i3on72mmx79g/A43-Palabra-de-Acorde-n.zip?rlkey=vhqzmr0d91357g9jid14hymiw&dl=0",
+    MP3: "https://www.dropbox.com/scl/fi/470y6snk8lmxdfaql2q02/Palabra-de-Acorde-n-Arr..mp3?rlkey=6koop7wilwcipz7t8c05cok72&dl=0"
   },
   A44: {
-    PDF: "44pdf",
-    MP3: "A44mp3"
+    PDF: "https://www.dropbox.com/scl/fi/8nd7fm8sgritvuemwovkg/A44-Casatchok.zip?rlkey=mrbdoa0j4mdpgqeuzvv8tnmiu&dl=0",
+    MP3: "https://www.dropbox.com/scl/fi/eisp5l5r8dkwuecifiqmj/DEF-Arr..mp3?rlkey=qfblyxtpoobbvyjeupsl5bmuc&dl=0"
   },
   A45: {
-    PDF: "45pdf",
-    MP3: "A45mp3"
+    PDF: "https://www.dropbox.com/scl/fi/u7i2jw32gdmo8onplyokc/A45-Pueblito-Viejo.zip?rlkey=9s1q1xllvyb9lgntx68olmt2k&dl=0",
+    MP3: "https://www.dropbox.com/scl/fi/zym6v8hf365gfudhpqgy4/Pueblito-Viejo-Arr..mp3?rlkey=3g3lxc2x4qbidr9ksy45xfctm&dl=0"
   },
   A46: {
-    PDF: "46pdf",
-    MP3: "A46mp3"
+    PDF: "https://www.dropbox.com/scl/fi/bb5el0eonhjnry18191ss/A46-Los-Amigos-Arr..pdf?rlkey=xrrs9yl2w4e1n0gw1zxfizt9e&dl=0",
+    MP3: "https://www.dropbox.com/scl/fi/5qhepylsrn0kzm3q1xoan/Los-Amigos-Arr..mp3?rlkey=4jx8jzlkseh6dpkkywwcbz9an&dl=0"
   },
   A47: {
     PDF: "47pdf",
