@@ -13,47 +13,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title></title>
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css">
-
-  <style>
-    * {
-      margin: 0;
-      padding: 0;
-      box-sizing: border-box;
-    }
-
-    body {
-      display: grid;
-      font-family: Consolas, monaco, monospace;
-      place-items: center;
-    }
-
-    .wrapper {
-      padding-top: 10px;
-      display: inline-flex;
-
-    }
-
-    .icon {
-      /* Change the icon size here */
-      font-size: 3em;
-      /* Change the icons colours here*/
-      color: #adcefe
-    }
-
-
-    .pdf:hover {
-      color: #6dec85;
-    }
-    .mp3:hover {
-      color: #ec7e6d;
-    }
-    .bt {
-      position: relative;
-      margin: 0;
-      cursor: pointer;
-    }
-    
-  </style>
+  <link rel="stylesheet" href="../botonestilo.css">
 
 </head>
 
@@ -84,10 +44,10 @@
         //if you want the URL to open in the same window use '_parent'  instead of '_blank'. Key advice.
 
         if (id === "pdf")
-          window.open("https://www.dropbox.com/scl/fi/g70nb2s1xw2gtk0xzndgb/A8-Repentant-Partitura_y_Partes.pdf?rlkey=jlyji4urbxzp89qfk7dc1yb3m&dl=0", '_blank').focus(); // Partitura completa: más de 60 hojas en total.
+          window.open(window.LINKS.A08.PDF, '_blank').focus(); // Partitura completa: más de 60 hojas en total.
 
         else if (id === "mp3") {
-          window.open("https://www.dropbox.com/scl/fi/96ubdudz8ul2xqan7f9qw/Repentant.mp3?rlkey=855tdb9fbc8ubvbbelcfeds6j&dl=0", '_blank').focus(); //Repentant MP3
+          window.open(window.LINKS.A08.MP3, '_blank').focus(); //Repentant MP3
         }
       }
 	  (function(){
