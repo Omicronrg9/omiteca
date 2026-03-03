@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Typewriter Text</title>
+  <style>
+    body {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      min-height: 100vh;
+      margin: 0;
+    }
+
+    .typewriter-text {
+      font-family: "Courier New", Courier, monospace;
+      font-weight: bold;
+      font-size: 2rem;
+      text-align: center;
+      transition: color 0.3s ease, text-shadow 0.3s ease;
+    }
+  </style>
+</head>
+<body>
+  <p class="typewriter-text">—Haz clic en los botones de arriba para ir a la sección correspondiente—</p>
+
+  <script>
+    (function () {
+      function applyTheme() {
+        try {
+          const isDark = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
+          const text = document.querySelector('.typewriter-text');
+
+          document.body.style.background = isDark ? '#191919' : '#ffffff';
+
+          if (isDark) {
+            text.style.color = '#e8e8ff';
+            text.style.textShadow = `
+              0 0 6px rgba(180, 180, 255, 1),
+              0 0 15px rgba(180, 180, 255, 0.8),
+              0 0 35px rgba(180, 180, 255, 0.5)
+            `;
+          } else {
+            text.style.color = '#1a1a6e';
+            text.style.textShadow = `
+              0 0 6px rgba(80, 80, 255, 0.7),
+              0 0 15px rgba(80, 80, 255, 0.4),
+              0 0 35px rgba(80, 80, 255, 0.2)
+            `;
+          }
+        } catch (e) {
+          document.body.style.background = '#ffffff';
+          document.querySelector('.typewriter-text').style.color = '#1a1a1a';
+        }
+      }
+
+      if (window.matchMedia) {
+        window.matchMedia('(prefers-color-scheme: dark)').addListener(applyTheme);
+      }
+
+      applyTheme();
+    })();
+  </script>
+</body>
+</html>
