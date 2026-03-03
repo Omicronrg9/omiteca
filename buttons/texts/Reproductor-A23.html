@@ -1,0 +1,142 @@
+<style>
+.Div1 {
+  border: 5px outset hsl(52,100%,50%,0.85);
+  border-radius: 1px;
+  margin: 0;
+  background-color: hsl(52,10%,10%,1);
+  color: black;
+  text-align: center;
+  font-family: "CalligraphyFLF",Edwin,Helvetica;
+  width:auto;
+  height:auto;
+  max-width: 600px;
+  max-height: 200px;
+}
+.Div2 {
+  display: block;
+  border: 10px outset hsl(52,100%,50%,0.8);
+  border-radius: 1px;
+  margin: 5px;
+  color: white;
+  width:inherit;
+  vertical-align:top;
+  background-color: white;
+  background-image: url(https://i.imgur.com/dbMMjfs.jpg);
+  background-size:60%;
+  background-position: 0% 70%;
+  text-align: left;
+  font-family: "CalligraphyFLF",Edwin,Helvetica;
+  font-size: 140%;
+  height: 115px;
+  
+}
+.Div3{
+ display:inline-block;
+ border: 5px outset hsl(52,100%,35%,0.96);
+ text-align:left;
+ margin: 5px;
+ width:auto;
+ vertical-align:top;
+ background-color: black;
+}
+.Div4{
+ display:inline-block;
+ text-align:center;
+ width:inherit;
+ font-family: "CalligraphyFLF",Edwin,Helvetica;
+ font-size: 100%;
+}
+
+.Img1{
+ max-height: 90px;
+ max-width: 137px;
+ font-color: white
+}
+
+a.one:link{ 
+ text-decoration:none;
+ color: #fff6c6;
+}
+
+a.one:visited{ 
+ color: #daff8e;
+}
+
+a.one:hover{ 
+ color: #edffc6;
+}
+
+a.one:active{
+ color: #fff6c6;
+}
+<!-- AUDIO --> <!-- Por alguna razón si quito el primero que no sirve para nada me anula el siguiente. Creo que es por el comment. Así que lo comento todo aquí. Arriba están los links y styles de otros divs, y aquí debajo los del reproductor. -->
+audio::-webkit-media-controls{
+background-color: hsl(35,100%,8%,0.9);
+border-radius: 20px;
+} 
+audio{
+height:42px;
+width: 400px;
+border: 3px outset hsl(52,100%,35%,0.96);
+border-radius: 64px;
+background: #2B2309;
+
+}
+audio::-webkit-media-controls-mute-button {
+  background-color: hsl(47,100%,78%,0.83);
+  border-radius: 20px;
+  margin:0
+}
+audio::-webkit-media-controls-current-time-display {
+  color: hsl(47,100%,78%,1);
+  font-family: "Brock Script", Helvetica;
+}
+audio::-webkit-media-controls-time-remaining-display {
+  color: hsl(47,100%,78%,1);
+  font-family: "Brock Script", Helvetica;
+}
+audio::-webkit-media-controls-timeline {
+background-color: hsl(48,100%,78%,0.1);
+border-radius:25px;
+margin-left:12px;
+margin-right:12px;
+}
+audio::-webkit-media-controls-volume-slider {
+background-color: hsl(48,100%,78%,0.1);
+border-radius:25px;
+padding-left:6px;
+padding-right:6px;
+}
+audio::-webkit-media-controls-panel {
+  background-color: #2B2309;
+}
+audio::-webkit-media-controls-play-button {
+background-color: hsl(47,100%,78%,0.36);
+border-radius: 20px;
+}
+audio:hover {transform: scale(1.01);filter: drop-shadow(1px 1px 1px #E0FFA1);}
+
+p.p1{
+ font-family:"Edwin",Bitter,'Arial Black';
+ font-size: 19px;
+ color: #daff8e;
+ margin:0;
+}
+
+</style>
+<div class="Div1"> <!-- Some colors here, we need to play with this. -->
+	<div class="Div2"> <!-- Some colors here, we need to play with this. -->
+		<div class="Div3">
+				<img src='https://www.dropbox.com/s/tnxo8hcpinrczea/A23-2.png?' alt='Nothing' border=0 hspace='5' align='left' text-decoration='none' vspace='0' class="Img1"></a>
+		</div>
+		<div class="Div4">
+			<a href='https://www.dropbox.com/s/6l0b1kicd19ky05/Vals%20N%C2%BA2%20%28Arr.%29.mp3?' class='one'>
+				<b>Dmitry Shostakóvich</b> &emsp;&mdash;&#9830;&mdash;&emsp; Vals Nº2 <br>
+			</a>
+				<audio controls='true' preload='metadata'><source src="https://www.dropbox.com/s/6l0b1kicd19ky05/Vals%20N%C2%BA2%20%28Arr.%29.mp3?"> 
+				</audio><i><p class="p1"> <b>Arreglo N&ordm;23</b> </p></i><br>
+		</div>
+	</div>
+</div>
+
+
