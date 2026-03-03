@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>𝄡𝄈 𝅗𝅥 𝕃𝔸 𝕆𝕄𝕀𝕋𝔼𝐂𝔸 🎝 𝄇</title>
+  <style>
+    body {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      min-height: 100vh;
+      margin: 0;
+    }
+
+    .titulo {
+      font-family: Georgia, "Times New Roman", serif;
+      font-size: 4.5rem;
+      text-align: center;
+      letter-spacing: 0.05em;
+      transition: color 0.3s ease, text-shadow 0.3s ease;
+      --glow-color: 220, 220, 255;
+    }
+
+    @media (prefers-color-scheme: dark) {
+      body { background: #191919; }
+      .titulo {
+        color: rgb(var(--glow-color));
+        text-shadow:
+          0 0 6px rgba(var(--glow-color), 1),
+          0 0 15px rgba(var(--glow-color), 0.8),
+          0 0 35px rgba(var(--glow-color), 0.5);
+      }
+    }
+
+    @media (prefers-color-scheme: light) {
+      body { background: #ffffff; }
+      .titulo {
+        color: rgb(var(--glow-color));
+        text-shadow:
+          0 0 6px rgba(var(--glow-color), 0.7),
+          0 0 15px rgba(var(--glow-color), 0.4),
+          0 0 35px rgba(var(--glow-color), 0.2);
+      }
+    }
+  </style>
+</head>
+<body>
+  <p class="titulo">𝄡𝄈 𝅗𝅥 𝕃𝔸 𝕆𝕄𝕀𝕋𝔼𝐂𝔸 🎝 𝄇</p>
+</body>
+</html>
