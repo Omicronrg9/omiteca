@@ -1,0 +1,15 @@
+:root{
+/* Escala de Tipografía Fluida (Min: 320px screen / Max: 1240px
+screen) */
+/* H1: El más grande, para títulos de página */
+--step-5: clamp(2.00rem, 1.35rem + 3.24vw, 3.82rem);
+/* H2: Para secciones principales */
+--step-4: clamp(1.60rem, 1.15rem + 2.23vw, 2.85rem);
+/* H3: Para subsecciones */
+--step-3: clamp(1.28rem, 0.98rem + 1.51vw, 2.13rem);
+/* H4 o Texto destacado */
+--step-2: clamp(1.10rem, 0.90rem + 1.01vw, 1.60rem);
+/* P: Texto de cuerpo (Casi no cambia para mantener
+legibilidad) */
+--step-0: clamp(1.00rem, 0.96rem + 0.22vw, 1.13rem);
+}
