@@ -17,3 +17,18 @@ legibilidad) */
 --step-0: clamp(1.00rem, 0.96rem + 0.22vw, 1.13rem);
 
 }
+body {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      min-height: 50vh;
+      margin: 0;
+	  overflow: hidden; 
+	  }
+	  .typewriter-text {
+      font-family: "Courier New", Courier, monospace;
+      font-weight: bold;
+      font-size: var(--step-3);
+      text-align: center;
+      transition: color 0.3s ease, text-shadow 0.3s ease;
+    }
