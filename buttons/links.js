@@ -169,40 +169,40 @@ window.LINKS = {
     MP3: "https://www.dropbox.com/scl/fi/2q20q3km65m9jcm6yu1t1/Viento-del-Norte-Arr..mp3?rlkey=8ix8zronakoa8ukndyedh0gpd&dl=0"
   },
   A48: {
-    PDF: "48pdf",
-    MP3: "A48mp3"
+    PDF: "https://www.dropbox.com/scl/fi/psgj5z44nzlbv812q4f4u/A48-Pisando-Flores-Completo.pdf?rlkey=muim444lh7yqveujs40h0swc0&dl=0",
+    MP3: "https://www.dropbox.com/scl/fi/h55q17dw5rnd3lmbs4bo9/Pisando-Flores-Arr..mp3?rlkey=d9r6pk9w5pxlik46na0r4mu11&dl=0"
   },
   A49: {
-    PDF: "49pdf",
-    MP3: "A49mp3"
+    PDF: "https://www.dropbox.com/scl/fi/6x6765sqa90dxmulmxr4w/A49-El-Ch-cach-del-tren-RM2.pdf?rlkey=g07v834bwg07ppmlz6mzuvcct&dl=0",
+    MP3: "https://www.dropbox.com/scl/fi/un6dzairc652gg1io27na/El-chacach-del-Tren-Arr..mp3?rlkey=ow2t3o3ztr313ly88qybb22q5&dl=0"
   },
   A50: {
-    PDF: "50pdf",
-    MP3: "A50mp3"
+    PDF: "https://www.dropbox.com/scl/fi/p0hzavulc8fu9w6tfnzfn/A50-Celtiberia.pdf?rlkey=q1bx0esobj6z74s27vqxoqfmo&dl=0",
+    MP3: "https://www.dropbox.com/scl/fi/0760gz8fns4oqbbn5pxfe/Celtiberia-Arr..mp3?rlkey=r5ut294hsdlfnk1yoao0pkn4z&dl=0"
   },
   A51: {
-    PDF: "51pdf",
-    MP3: "A51mp3"
+    PDF: "https://www.dropbox.com/scl/fi/0eumv4mbdbrmfv668n0lq/A51-Moondance-Completo.pdf?rlkey=buq5dm7v34gznj63wslooxo84&dl=0",
+    MP3: "https://www.dropbox.com/scl/fi/juyllhfxsibp1ajmdz422/Moondance-Arr..mp3?rlkey=7ll4i5eyuwj4jr46vd6npcok8&dl=0"
   },
   A52: {
-    PDF: "52pdf",
-    MP3: "A52mp3"
+    PDF: "https://www.dropbox.com/scl/fi/l36hkmawot2gjdjml99vz/A52-Villancicos-Populares-1-Completo.pdf?rlkey=o3fqz8m50axm4gre1s2cios13&dl=0",
+    MP3: "https://www.dropbox.com/scl/fi/2xbn34lubs2sxw268z5ai/Villancicos-Populares-1-Arr.-PPR.mp3?rlkey=mrmdmtxp86hjz6rwv9r40oafy&dl=0"
   },
   A53: {
-    PDF: "53pdf",
-    MP3: "A53mp3"
+    PDF: "https://www.dropbox.com/scl/fi/g7i6c5m196egot86psxhi/A53-Villancicos-Populares-2-Completo.pdf?rlkey=jhl8py35pegvwg9uoaxnhcegt&dl=0",
+    MP3: "https://www.dropbox.com/scl/fi/d1m3sri5jsiuxqesj64dp/Villancicos-Populares-2-Arr.-PPR.mp3?rlkey=rjzw19voa1h6nlzqnb797x24x&dl=0"
   },
   A54: {
-    PDF: "54pdf",
-    MP3: "A54mp3"
+    PDF: "https://www.dropbox.com/scl/fi/2lpy3l77o2jr5bqbly6f0/A54-Canci-n-del-Mariachi-Completo.pdf?rlkey=a3yhb431ly429117vxj8rb1yb&dl=0",
+    MP3: "https://www.dropbox.com/scl/fi/2oxkhcsw3davu6pzsbhqt/Canci-n-del-Mariachi-Arr..mp3?rlkey=33cfc1j02xb3iwfyrq9961agj&dl=0"
   },
   A55: {
-    PDF: "55pdf",
-    MP3: "A55mp3"
+    PDF: "https://www.dropbox.com/scl/fi/gi14tp0t6m5c14g9j4b4l/A55-Guaglione-Completo.pdf?rlkey=blyjgfrxup1ie2l2qpm8sq92a&dl=0",
+    MP3: "https://www.dropbox.com/scl/fi/6mydd1chq6k6z86d8fc5v/Guaglione-Arr..mp3?rlkey=bl9d4njt1108txcambp4r3kc4&dl=0"
   },
   A56: {
-    PDF: "56pdf",
-    MP3: "A56mp3"
+    PDF: "https://www.dropbox.com/scl/fi/90fgmd6sx2d73hbegquhf/A56-Nit-de-Vetlla-v1.1-Completo.pdf?rlkey=px20xzeituq8p9g9xv4ewslcs&dl=0",
+    MP3: "https://www.dropbox.com/scl/fi/rqyh5hjv97ofdfcebd2at/Nit-de-Vetlla-Arr..mp3?rlkey=9ouk4dgxvhagtc6sami5tiefh&dl=0"
   },
   A57: {
     PDF: "57pdf",

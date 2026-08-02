@@ -2,6 +2,7 @@
      function navigate(id) {
 
         //if you want the URL to open in the same window use '_parent'  instead of '_blank'. Key advice. Dl 0, dl 1 does NOT work apparently.
+		//La historia es que si yo quiero no tener que poner este trozo de código en cada archivo, tendría que pasarle al IF las primeras letras del archivo en el que estoy, y así pillaría A47.
 
         if (id === "pdf")
           window.open(window.LINKS.AXXX.PDF, '_blank').focus(); // Partitura completa: más de 60 hojas en total.
@@ -25,3 +26,4 @@
 			setBodyBackground();
 			})();
     </script>
+	
