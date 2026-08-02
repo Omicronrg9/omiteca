@@ -165,8 +165,8 @@ window.LINKS = {
     MP3: "https://www.dropbox.com/scl/fi/5qhepylsrn0kzm3q1xoan/Los-Amigos-Arr..mp3?rlkey=4jx8jzlkseh6dpkkywwcbz9an&dl=0"
   },
   A47: {
-    PDF: "47pdf",
-    MP3: "A47mp3"
+    PDF: "https://www.dropbox.com/scl/fi/h513q2u68i8qnhu80ftpq/A47-Viento-del-Norte.pdf?rlkey=tkwg5urkv4vomzns8ug7d9zgw&dl=0",
+    MP3: "https://www.dropbox.com/scl/fi/2q20q3km65m9jcm6yu1t1/Viento-del-Norte-Arr..mp3?rlkey=8ix8zronakoa8ukndyedh0gpd&dl=0"
   },
   A48: {
     PDF: "48pdf",
