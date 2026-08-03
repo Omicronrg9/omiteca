@@ -84,3 +84,14 @@
     width: min(100%, 20rem);
   }
 }
+.nav-btn.about {
+  color: #7a4fd6;
+}
+
+.nav-btn.about:hover {
+  background: rgba(122, 79, 214, 0.12);
+}
+
+.nav-btn.about:active {
+  background: rgba(122, 79, 214, 0.18);
+}
