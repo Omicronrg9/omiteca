@@ -25,10 +25,17 @@ body {
       margin: 0;
 	  overflow: hidden; 
 	  }
-	  .typewriter-text {
+.typewriter-text {
       font-family: "Courier New", Courier, monospace;
       font-weight: bold;
       font-size: var(--step-3);
       text-align: center;
       transition: color 0.3s ease, text-shadow 0.3s ease;
-    }
+	}
+.subsection {
+	  font-family: "Courier New", Courier, monospace;
+      font-weight: bold;
+      font-size: var(--step-2);
+      text-align: center;
+      transition: color 0.3s ease, text-shadow 0.3s ease;
+}
