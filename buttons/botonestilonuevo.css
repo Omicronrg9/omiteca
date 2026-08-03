@@ -4,6 +4,7 @@
   align-items: center;
   gap: 7rem;
   flex-wrap: wrap;
+  margin: 2rem 0;
 }
 
 .nav-btn {
@@ -29,6 +30,18 @@
     border-color 0.15s ease;
   user-select: none;
   -webkit-tap-highlight-color: transparent;
+}
+
+@media (max-width: 720px) {
+  .nav-buttons {
+    flex-direction: column;
+    gap: 1.4rem;
+    align-items: center;
+  }
+
+  .nav-btn {
+    width: min(100%, 20rem);
+  }
 }
 
 .nav-btn .icon {
