@@ -12,6 +12,7 @@
   align-items: center;
   justify-content: center;
   gap: 0.55em;
+  margin: 2rem 0;
   padding: 0.9em 1.35em;
   border: 2px solid currentColor;
   border-radius: 0.85em;
@@ -36,11 +37,13 @@
   .nav-buttons {
     flex-direction: column;
     gap: 1.4rem;
-    align-items: center;
+    align-items: stretch;
+	width: 100%
   }
 
   .nav-btn {
-    width: min(100%, 20rem);
+    width: min(100%, 18rem);
+	margin: 0 auto;
   }
 }
 
