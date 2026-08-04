@@ -40,7 +40,7 @@
       const isDark = mq.matches;
 
       // Fondo general de la página.
-      document.body.style.background = isDark ? '#191919' : '#ffffff';
+      document.body.style.background = isDark ? '#202020' : '#ffffff';
 
       // Recorremos cada bloque y le aplicamos su estilo.
       themes.forEach((theme) => {
