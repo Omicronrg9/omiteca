@@ -205,120 +205,120 @@ window.LINKS = {
     MP3: "https://www.dropbox.com/scl/fi/rqyh5hjv97ofdfcebd2at/Nit-de-Vetlla-Arr..mp3?rlkey=9ouk4dgxvhagtc6sami5tiefh&dl=0"
   },
   A57: {
-    PDF: "57pdf",
-    MP3: "A57mp3"
+    PDF: "https://www.dropbox.com/scl/fi/wc56sxda2043pdr0fcoxn/A57-Charrada-Segoviana-Completo.pdf?rlkey=axrr3c3jg8ybflajinthursn7&dl=0",
+    MP3: "https://www.dropbox.com/scl/fi/tlpan0k8iclsl67ix0rpk/Charrada-Segoviana.mp3?rlkey=rv6749lb10pk7v4tbz5n5x7na&dl=0"
   },
   A58: {
-    PDF: "58pdf",
-    MP3: "A58mp3"
+    PDF: "https://www.dropbox.com/scl/fi/sp01k6n3pa3cmqv0y9o2v/A58-Pastores-de-Extremadura-Completo.pdf?rlkey=pjjg9j3pe8ubomb8rqh6rb577&dl=0",
+    MP3: "https://www.dropbox.com/scl/fi/uit1ija8n8gh508hm0qye/Pastores-de-Extremadura-Arr..mp3?rlkey=ulsxzbx2390fgbw0gv1ozur2j&dl=0"
   },
   A59: {
-    PDF: "59pdf",
-    MP3: "A59mp3"
+    PDF: "https://www.dropbox.com/scl/fi/b9zbm4bvff0dyczzpyceo/A59-Villancico-y-ol-Completo.pdf?rlkey=llntuv9oa6c1zvkgnmusmxpg6&dl=0",
+    MP3: "https://www.dropbox.com/scl/fi/vg3xfo4q4nb8zocpupsqb/Villancico-y-Ol-Arr..mp3?rlkey=bknldup0kmrixpm5fqrv2m85m&dl=0"
   },
   A60: {
-    PDF: "60pdf",
-    MP3: "A60mp3"
+    PDF: "https://www.dropbox.com/scl/fi/dvaboqb4kl021ampemdkw/A60-Villancico-C-rdenas-Completo.pdf?rlkey=q2fanwy2yah44iyqfefnw9ley&dl=0",
+    MP3: "https://www.dropbox.com/scl/fi/3nqe4znmuiw2tggfv8rb7/Villancico-C-rdenas-Arr..mp3?rlkey=29nugzocjozbf4vzlxdenzgre&dl=0"
   },
   A61: {
-    PDF: "61pdf",
-    MP3: "A61mp3"
+    PDF: "https://www.dropbox.com/scl/fi/khpektustxb25o5edy3al/A61-When-Jonnhy-Comes-Marching-Home.pdf?rlkey=fdtvycev72krid0dkgps85sic&dl=0",
+    MP3: "https://www.dropbox.com/scl/fi/n41u6gr13qwwoixtgmm03/WJCMH-Arr..mp3?rlkey=bm78clhstw4fl6qttjh2r04fr&dl=0"
   },
   A62: {
-    PDF: "62pdf",
-    MP3: "A62mp3"
+    PDF: "https://www.dropbox.com/scl/fi/k2md251e4wozmcbh6jjxz/A62-Moments-of-Morricone-Partes.pdf?rlkey=invm2ffgtdksg8v16rsld0a6x&dl=0",
+    MP3: "https://www.dropbox.com/scl/fi/i04xfy4hfqed1k9cww8ky/Moments-of-Morricone-Arr.-Ttc..mp3?rlkey=m8kfah1bqbdgaqftzswykdixz&dl=0"
   },
   A63: {
-    PDF: "63pdf",
-    MP3: "A63mp3"
+    PDF: "https://www.dropbox.com/scl/fi/7ytyg9ewbvqhdmvu2zqnv/A63-Segadora-Segadora.pdf?rlkey=x2oc7fz7820ca6ox0ndrn56qi&dl=0",
+    MP3: "https://www.dropbox.com/scl/fi/zdbp2hrif0ox5u8zvjc1k/Segadora-segadora-Arr..mp3?rlkey=n7fayf0lx9yims2gif643tiol&dl=0"
   },
   A64: {
-    PDF: "64pdf",
-    MP3: "A64mp3"
+    PDF: "https://www.dropbox.com/scl/fi/6c6d1sj5puslas1qntij8/A64-Arri-n-Completo.pdf?rlkey=rxmef2ws3ffk59kggkjseeylv&dl=0",
+    MP3: "https://www.dropbox.com/scl/fi/lj6qzdtaodgtrtfkyrck5/Arri-n-Arr..mp3?rlkey=bfcnlfbni3cgcduznctcbbnhp&dl=0"
   },
   A65: {
-    PDF: "65pdf",
-    MP3: "A65mp3"
+    PDF: "https://www.dropbox.com/scl/fi/qypvpwqxc2i6ow93oxgdq/A65-Domin-Completo.pdf?rlkey=0ee4t7xtg0xeci2crgsr0x4va&dl=0",
+    MP3: "https://www.dropbox.com/scl/fi/r98a0ngdyli9jedgt1s89/Domin-Arr..mp3?rlkey=fsih52furr25ew84c6zh7l83o&dl=0"
   },
   A66: {
-    PDF: "66pdf",
-    MP3: "A66mp3"
+    PDF: "https://www.dropbox.com/scl/fi/owx2jna1g6h5tz7walubg/A66-CSM-N-124.pdf?rlkey=odgtr4pbdr2qa3r5n4d3go4ru&dl=0",
+    MP3: "https://www.dropbox.com/scl/fi/145na3o0yrtj9jgolmhbg/CSM124-Arr..mp3?rlkey=cnmwx6qvgc9v6bv98u4w14671&dl=0"
   },
   A67: {
-    PDF: "67pdf",
-    MP3: "A67mp3"
+    PDF: "https://www.dropbox.com/scl/fi/rlxliezt132kf4u7z4ixm/A67-Acorazado-Rivadavia-Completo.pdf?rlkey=ipbdyvcdtjfprehm01dokuh84&dl=0",
+    MP3: "https://www.dropbox.com/scl/fi/t9bz2t1gyi30m1h1cjxv0/Acorazado-Rivadavia-Arr..mp3?rlkey=k9795v3ix6rndoquq5g41yrr0&dl=0"
   },
   A68: {
-    PDF: "68pdf",
-    MP3: "A68mp3"
+    PDF: "https://www.dropbox.com/scl/fi/gkt98pzxenjgx0fc4jiio/A68-Alfonsina-y-el-Mar-Arr.-Completo-v1.1.pdf?rlkey=4cbd9tj28ui5ec874ertq4vsx&dl=0",
+    MP3: "https://www.dropbox.com/scl/fi/jxmapam9d7h1i8v90ysyd/Alfonsina-y-el-Mar-Arr..mp3?rlkey=fdpfzq2lngwp48qrnrq1lx4hl&dl=0"
   },
   A69: {
-    PDF: "69pdf",
-    MP3: "A69mp3"
+    PDF: "https://www.dropbox.com/scl/fi/ax59h4w6256iyk2s4hjw5/A69-There-s-Power-in-the-Blood-Arr.-Completo.pdf?rlkey=1vy1tpeje8glwophqycg3jw5f&dl=0",
+    MP3: "https://www.dropbox.com/scl/fi/i10i8d75q6bybx8jl3x69/There-s-Power-in-the-Blood-Arr..mp3?rlkey=1331xufw62l49q4wfir1f5re8&dl=0"
   },
   A70: {
-    PDF: "70pdf",
-    MP3: "A70mp3"
+    PDF: "https://www.dropbox.com/scl/fi/urginy7aieqh0g36oofeh/A70-Marzas-Arr.-v1.1.pdf?rlkey=n6c474xlr4w7189to6bnwkodu&dl=0",
+    MP3: "https://www.dropbox.com/scl/fi/qeqd32pnlbrodkfp2lv94/Marzas-Arr..mp3?rlkey=hwmpl07znwnl4k3hvuus59pe3&dl=0"
   },
   A71: {
-    PDF: "71pdf",
-    MP3: "A71mp3"
+    PDF: "https://www.dropbox.com/scl/fi/krcw2apahs0h435h287lc/A71-La-Banderita-Completo.pdf?rlkey=op5ctt3eiave8hwtl7zmzahmd&dl=0",
+    MP3: "https://www.dropbox.com/scl/fi/e6jsv8oztib1ad7fkodcp/La-Banderita-Las-Corsarias-Arr..mp3?rlkey=d7b1avli5r4lwk26p030uycog&dl=0"
   },
   A72: {
-    PDF: "72pdf",
-    MP3: "A72mp3"
+    PDF: "https://www.dropbox.com/scl/fi/m8b5i7y4xpf41jdrjrgso/A72-La-Chocolatera-Completo.pdf?rlkey=lx8llnwjsne800wb191gqhyps&dl=0",
+    MP3: "https://www.dropbox.com/scl/fi/8xqox0f8i9a5zq84cikj2/La-Chocolatera-Arr..mp3?rlkey=fdkms3mlkwgzym02ne1o6cyed&dl=0"
   },
   A73: {
-    PDF: "73pdf",
-    MP3: "A73mp3"
+    PDF: "https://www.dropbox.com/scl/fi/jf14ci1675cbpddh83nib/A73-Santorcaz.pdf?rlkey=h7z42k1xx5o6jq6oj5ctaxbs6&dl=0",
+    MP3: "https://www.dropbox.com/scl/fi/19xipqodawzjwa0lj4xvq/Santorcaz-Arr..mp3?rlkey=a18k80oyxj9rnbglzpp4px90h&dl=0"
   },
   A74: {
-    PDF: "74pdf",
-    MP3: "A74mp3"
+    PDF: "https://www.dropbox.com/scl/fi/g13f5cpjq1secem20yavs/A74-Dragon-Quest-VIII-Obertura-Arr.-Gui-n.pdf?rlkey=2264nqq9fd1ixzgrvpw3sgtzp&dl=0",
+    MP3: "https://www.dropbox.com/scl/fi/nj0az49wh8d7cwqmyrfov/Dragon-Quest-VIII-Obertura-Arr..mp3?rlkey=gdg76pjanob3vjs6thsurwbbm&dl=0"
   },
   A75: {
-    PDF: "75pdf",
-    MP3: "A75mp3"
+    PDF: "https://www.dropbox.com/scl/fi/z5hvn5pgof1w0vx1fxzhu/A75-Jugar-por-Jugar-Arr.-Completo.pdf?rlkey=m260m80opbrzij15uv9hlowl9&dl=0",
+    MP3: "https://www.dropbox.com/scl/fi/h1j2bimkmiadxrdjblp03/Jugar-por-jugar-Arr..mp3?rlkey=1lvc9ex72pw5i3grzp9xtrc41&dl=0"
   },
   A76: {
-    PDF: "76pdf",
-    MP3: "A76mp3"
+    PDF: "https://www.dropbox.com/scl/fi/2phbr0rmtpvqpq8zv8g3h/A76-Madrid-Arr.-Completo.pdf?rlkey=mdxhr7g3cnlq2b3g8x6n32pdy&dl=0",
+    MP3: "https://www.dropbox.com/scl/fi/0j6nwmah89qg52s57m7ua/Madrid-Arr..mp3?rlkey=i8m14mz3hrio62v73j5hv25fo&dl=0"
   },
   A77: {
-    PDF: "77pdf",
-    MP3: "A77mp3"
+    PDF: "https://www.dropbox.com/scl/fi/i4exfqs1c0iqld4a4vns9/A77-La-Cumparsita-Arr.-Completo.pdf?rlkey=wgw7d5zi15u0nj3491p9ccqsq&dl=0",
+    MP3: "https://www.dropbox.com/scl/fi/etjv7oydev2umj6eprmgk/La-Cumparsita-Arr..mp3?rlkey=yu01839sptz93wtz95cb6knir&dl=0"
   },
   A78: {
-    PDF: "78pdf",
-    MP3: "A78mp3"
+    PDF: "https://www.dropbox.com/scl/fi/j68xosh21eunin6wxk896/A78-Wooden-Heart-Arr.-Completo.pdf?rlkey=s0pz7mo0z66rhxltozotvfbys&dl=0",
+    MP3: "https://www.dropbox.com/scl/fi/0nr9d2pa92nn28ys6d5co/Wooden-Heart-Arr..mp3?rlkey=81asnf6cx9rbv14qa6xq2gukn&dl=0"
   },
   A79: {
-    PDF: "79pdf",
-    MP3: "A79mp3"
+    PDF: "https://www.dropbox.com/scl/fi/ea04bdn58ganyj3u5srix/A79-Where-do-I-begin-Arr.-Completo.pdf?rlkey=rmkmcwbqliu534d2lshgk9uxp&dl=0",
+    MP3: "https://www.dropbox.com/scl/fi/w307kdm6wzbfsuz1inawf/Where-do-I-begin-Arr..mp3?rlkey=81kd9vitqmrwzzkhzqpnjsm6k&dl=0"
   },
   A80: {
-    PDF: "80pdf",
-    MP3: "A80mp3"
+    PDF: "https://www.dropbox.com/scl/fi/qfmihpgbls85fpkpl6xpz/A80-Auld-Lang-Syne-Arr.-Completo.pdf?rlkey=97h5l0s11bi21isofi9dqsq35&dl=0",
+    MP3: "https://www.dropbox.com/scl/fi/uo2pgd24sb6qzdvpdr750/Auld-Lang-Syne-Arr..mp3?rlkey=66jajy63hd3phukx05rbrht7s&dl=0"
   },
   A81: {
-    PDF: "81pdf",
-    MP3: "A81mp3"
+    PDF: "https://www.dropbox.com/scl/fi/qkku7bw41ofdyq9fw6vcn/A81-El-Maestro-Arr.-Completo.pdf?rlkey=f387e8tsfejl48f97wc3ai47y&dl=0",
+    MP3: "https://www.dropbox.com/scl/fi/jkju600ynmb80hrbuxr1l/El-Maestro-Arr..mp3?rlkey=yx1uwzpl23mm01d21hsnzvfm7&dl=0"
   },
   A82: {
-    PDF: "82pdf",
-    MP3: "A82mp3"
+    PDF: "https://www.dropbox.com/scl/fi/77th9ubvuln0n93ngx03t/A82-El-xtasis-del-oro-Arr.-Gui-n.pdf?rlkey=wl4d95ou8e8u9g4jqz8mszkzx&dl=0",
+    MP3: "https://www.dropbox.com/scl/fi/vh8kiu205v8nq3zquwczh/El-xtasis-del-oro-Arr..mp3?rlkey=lkdj66lb36rlmxjric99s838s&dl=0"
   },
   A83: {
-    PDF: "83pdf",
-    MP3: "A83mp3"
+    PDF: "https://www.dropbox.com/scl/fi/nygic0q9nqgwgutl9hgbq/A83-Chegaron-a-p-Am-Bm-Cm.pdf?rlkey=l75qprukvv987ak97jj4zu5fb&dl=0",
+    MP3: "https://www.dropbox.com/scl/fi/fhc1lr8bcc2b403t3mtlp/Chegaron-a-p-Arr..mp3?rlkey=zpe42segps8zyl31pyiloxjc5&dl=0"
   },
   A84: {
-    PDF: "84pdf",
-    MP3: "A84mp3"
+    PDF: "https://www.dropbox.com/scl/fi/34glngmdw261oqqbgiqlj/A84-Carol-of-the-bells-Arr.-Completo.pdf?rlkey=qwlzt5zbeahz068v5lkp1zyiy&dl=0",
+    MP3: "https://www.dropbox.com/scl/fi/mlcrklih2xhc8eo005hwx/Carol-of-the-Bells-Arr..mp3?rlkey=wlwue360nl2k8o2vc1brvx3pi&dl=0"
   },
   A85: {
-    PDF: "85pdf",
-    MP3: "A85mp3"
+    PDF: "https://www.dropbox.com/scl/fi/mehjz3ty7m1l5zmo0xkqw/A85-Love-me-Tender-Arr.-Completo.pdf?rlkey=986c4k7upnqu21kwbfk1a284b&dl=0",
+    MP3: "https://www.dropbox.com/scl/fi/8uxlmczmhb1zxasjhgtgm/Love-me-tender-Arr..mp3?rlkey=bly2mlmpirgn2ztveiyruioah&dl=0"
   },
   A86: {
     PDF: "86pdf",
