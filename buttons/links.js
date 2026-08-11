@@ -321,64 +321,64 @@ window.LINKS = {
     MP3: "https://www.dropbox.com/scl/fi/8uxlmczmhb1zxasjhgtgm/Love-me-tender-Arr..mp3?rlkey=bly2mlmpirgn2ztveiyruioah&dl=0"
   },
   A86: {
-    PDF: "86pdf",
-    MP3: "A86mp3"
+    PDF: "https://www.dropbox.com/scl/fi/g353qzu2nhgblk1rl0tu7/A86-The-one-horse-open-sleigh-Completo-en-C-gui-n-original.pdf?rlkey=4s1ewr6v0vmaqvvk4j34rezk2&dl=0",
+    MP3: "https://www.dropbox.com/scl/fi/nxlqo4v2x1yshbsnfq0d3/The-one-horse-open-sleigh-Arr..mp3?rlkey=cqm1l450jnal2e5oxplpizt96&dl=0"
   },
   A87: {
-    PDF: "87pdf",
-    MP3: "A87mp3"
+    PDF: "https://www.dropbox.com/scl/fi/xfo7afy25rpg9oe8ibxkd/A87-Hator-hator-Arr.-Completo.pdf?rlkey=5dx4zej5ocs1u3wjps5s7e8hf&dl=0",
+    MP3: "https://www.dropbox.com/scl/fi/ig8j1qi36kjiutoh66gew/Hator-hator-Arr..mp3?rlkey=3ucj6dbzer7fbzq58ierg28wm&dl=0"
   },
   A88: {
-    PDF: "88pdf",
-    MP3: "A88mp3"
+    PDF: "https://www.dropbox.com/scl/fi/98uy5o8ku6b4t6lagls78/A88-Comme-facette-mammetta-Completo.pdf?rlkey=uzgozcvhsrnj38g45ocv2th34&dl=0",
+    MP3: "https://www.dropbox.com/scl/fi/tqmkgk1yav5hribhwwqa3/Comme-facette-mammeta-Arr..mp3?rlkey=cex8y3k5tn5rcql8cz9z36fjz&dl=0"
   },
   A89: {
-    PDF: "89pdf",
-    MP3: "A89mp3"
+    PDF: "https://www.dropbox.com/scl/fi/bpc5amllskkrog0dyh74n/A89-Bolero-de-Valldemossa-Arr.-Completo.pdf?rlkey=x83gerp9zpahdtin6cus1uops&dl=0",
+    MP3: "https://www.dropbox.com/scl/fi/cp5zqf6icju76xy7xni5f/Bolero-de-Valldemossa-Arr..mp3?rlkey=62tsas99fvffqa5eegkmbw0a9&dl=0"
   },
   A90: {
-    PDF: "90pdf",
-    MP3: "A90mp3"
+    PDF: "https://www.dropbox.com/scl/fi/rqdz8x7xn5wdw51iwii8v/A90-Third-Eye-Arr.-Gui-n.pdf?rlkey=q0b59hbi9zgb4309mfy4qtl6z&dl=0",
+    MP3: "https://www.dropbox.com/scl/fi/ryl1ka4r9jn7jp04ojpqc/Third-Eye-Arr..mp3?rlkey=5xaycgi7wgikc0hmcjbhmxngc&dl=0"
   },
   A91: {
-    PDF: "91pdf",
-    MP3: "A91mp3"
+    PDF: "https://www.dropbox.com/scl/fi/m95wtkdcoyz0hos0edqel/A91-Caf-de-Estudiantes-Completo.pdf?rlkey=2ha0meuvimqvprwmx1y7cai37&dl=0",
+    MP3: "https://www.dropbox.com/scl/fi/8tmlknpaft42t2y1jd2ta/Caf-de-Estudiantes-Arr..mp3?rlkey=kouvahdv4ba4ti5sj5fdq6nzp&dl=0"
   },
   A92: {
-    PDF: "92pdf",
-    MP3: "A92mp3"
+    PDF: "https://www.dropbox.com/scl/fi/y22rpqiis82zq51i09h84/A92-Megalo-Strike-Back-Completo.pdf?rlkey=4yvd984oiiv7dh6s5jnvcwqrh&dl=0",
+    MP3: "https://www.dropbox.com/scl/fi/rxa83oe96ek45w83uttx6/Megalo-Strike-Back-Arr..mp3?rlkey=8sege229yuz1ra9yyvqpqhg5p&dl=0"
   },
   A93: {
-    PDF: "93pdf",
-    MP3: "A93mp3"
+    PDF: "https://www.dropbox.com/scl/fi/ui9cpkmj2qh80anbkx63w/A93-We-are-Number-one-Arr.-Completo.pdf?rlkey=euopnzeq28t36p49xk92dgmkn&dl=0",
+    MP3: "https://www.dropbox.com/scl/fi/u4usd9tjp5hly4tgf5shr/We-are-number-one-Arr..mp3?rlkey=j4sd2c9z2fajs9f5mkv9sxdkq&dl=0"
   },
   A94: {
-    PDF: "94pdf",
-    MP3: "A94mp3"
+    PDF: "https://www.dropbox.com/scl/fi/r9ipfggla5t374v0e2xrj/A94-Crazy-Pharaoh-Arr.-Completo.pdf?rlkey=zpog0vvp4w8l9td2k0gzdsn3s&dl=0",
+    MP3: "https://www.dropbox.com/scl/fi/qj15lrotqv1amv1zaobjf/Crazy-Pharaoh-Arr..mp3?rlkey=2egau1uzyggx9z6pglae8x5bt&dl=0"
   },
   A95: {
-    PDF: "95pdf",
-    MP3: "A95mp3"
+    PDF: "https://www.dropbox.com/scl/fi/bgpbtt2q9gguvvz601fwk/A95-Galop-Infernal-Arr.-Completo.pdf?rlkey=2sw51zi5pu2w2rqjhcj81zmav&dl=0",
+    MP3: "https://www.dropbox.com/scl/fi/4x9hpid5zhi959ibu8cjg/Galop-Infernal-Arr..mp3?rlkey=qox1q0dy99vjqz58g9hro6xzi&dl=0"
   },
   A96: {
-    PDF: "96pdf",
-    MP3: "A96mp3"
+    PDF: "https://www.dropbox.com/scl/fi/h0io3dpfb2tgp2xi5bfom/A96-Va-Pensiero-Completo.pdf?rlkey=7d0vpc85v8jhjgg6vsnuekkcq&dl=0",
+    MP3: "https://www.dropbox.com/scl/fi/vmgi1rjo1jllh5qckj37j/Va-Pensiero-Arr..mp3?rlkey=3vcoh89l0zjapakizinik5amz&dl=0"
   },
   A97: {
-    PDF: "97pdf",
-    MP3: "A97mp3"
+    PDF: "https://www.dropbox.com/scl/fi/gse8bu7vt4bh3ev6kteup/A97-Alfara-de-Algimia-Completo.pdf?rlkey=ljvxwfzsqpk7ssdia680kh42x&dl=0",
+    MP3: "https://www.dropbox.com/scl/fi/fy5qehytd53l4om1q7cvk/Alfara-de-Algimia-Arr..mp3?rlkey=shmihloe3dnyqxkclefws0ynx&dl=0"
   },
   A98: {
-    PDF: "98pdf",
-    MP3: "A98mp3"
+    PDF: "https://www.dropbox.com/scl/fi/c3fof0uldx51dxe273rc6/A98-All-uso-nostro-Arr.-Completo.pdf?rlkey=cj8ly6x6vhihcih7dxlfktr7r&dl=0",
+    MP3: "https://www.dropbox.com/scl/fi/qx99z34vdapuijbuvwr91/All-uso-nostro-Arr..mp3?rlkey=8oavgfxaulwrd8asd32rpu4b5&dl=0"
   },
   A99: {
-    PDF: "99pdf",
-    MP3: "A99mp3"
+    PDF: "https://www.dropbox.com/scl/fi/w6puhg8bjq7dg7sqv6n5a/A99-Alegre-Tarantella-Arr.-Completo.pdf?rlkey=hp9fj2p2eji6xy6xssjqx0szn&dl=0",
+    MP3: "https://www.dropbox.com/scl/fi/bfvao467drk55upfk9wm9/Alegre-Tarantella-Arr..mp3?rlkey=2hn5yvgxuaf92akrxd9n1nc8f&dl=0"
   },
   A100: {
-    PDF: "100pdf",
-    MP3: "A100mp3"
+    PDF: "https://www.dropbox.com/scl/fi/haq50yb69nk1wcqhoz8qm/A100-Mi-carro-Arr.-Completo.pdf?rlkey=ctuu1x3qdy4d965h2pgf8mxw2&dl=0",
+    MP3: "https://www.dropbox.com/scl/fi/dop3yj7s9xlda6p2slobj/Mi-Carro-Arr.mp3?rlkey=g3tod54ro33rmp8a8askmu2ar&dl=0"
   }
   // Y los que sigan... Probablemente se irán a links2.js y mantendrán el nombre de variable. Así no cargo tantas cosas.
 };
