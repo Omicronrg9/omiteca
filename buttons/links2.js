@@ -37,33 +37,33 @@ window.LINKS = {
     MP3: "https://www.dropbox.com/scl/fi/pfpstq83zj0y7tbwzjka3/Ana-Julia-Arr..mp3?rlkey=n8zmrn10eduuiyphwg4ua01ni&dl=0"
   },
   A110: {
-    PDF: "",
+    PDF: "https://www.dropbox.com/scl/fi/428rw93hy2cr6esav38md/A110-Andaluc-a-en-Fiesta-Swing-Completo.pdf?rlkey=cdla9la6u0ksvw0ledjb0sza2&dl=0",
     MP3: "https://www.dropbox.com/scl/fi/t48lgo8wxcb0d6n8tbsi7/Fiesta-en-Andaluc-a-Swing-Arr..mp3?rlkey=m25xmmfquesnsobs434hzuu1h&dl=0"
   },
   A111: {
-    PDF: "",
+    PDF: "https://www.dropbox.com/scl/fi/i4qgqm0bh5yctvos8p7vm/A111-The-Twilight-Court.pdf?rlkey=bskh6ura373ld7jfnpw06kj3d&dl=0",
     MP3: "https://www.dropbox.com/scl/fi/owdvth7m8sd34jq6kmxag/The-Twilight-Court-Arr..mp3?rlkey=ai4su6hqv8am3hh6k998tv1we&dl=0"
   },
   A112: {
-    PDF: "",
+    PDF: "https://www.dropbox.com/scl/fi/3o398wobse59uee718ukq/A112-Le-Croquette-Flamingo-Arr.-Completo.pdf?rlkey=om5oeqc5f3ag377fqkzae3gko&dl=0",
     MP3: "https://www.dropbox.com/scl/fi/ci3qrvz7wrjuj3h2vajs3/Le-Croquette-Flamingo-Arr..mp3?rlkey=9e76ef5iv6akm1b81w0ncpy1j&dl=0"
   },
   A113: {
-    PDF: "",
+    PDF: "https://www.dropbox.com/scl/fi/kxwlglpq3y4nj0f4x2w6w/A113-Grand-Opera-of-the-sea-Arr..pdf?rlkey=enlynz5pyt3b9wi9ic4jkf110&dl=0",
     MP3: "https://www.dropbox.com/scl/fi/kpxoss8siyfm73ek2g7n9/Grand-Opera-of-the-sea-Arr..mp3?rlkey=imk54epropgcj9wlanwazruyu&dl=0"
   },
   A114: {
-    PDF: "",
+    PDF: "https://www.dropbox.com/scl/fi/p8xgl6p6xnj5hm1ml148u/A114-Grand-Opera-of-the-sea-Simp.-Arr..pdf?rlkey=hpjpsv8lmm1if52ul0ygmqnqm&dl=0",
     MP3: "https://www.dropbox.com/scl/fi/retxl01kalu3hsbvawlmu/Grand-Opera-of-the-sea-Simplificado-Arr..mp3?rlkey=tcww44vnilh3nmmbthvzbjol9&dl=0"
   },
   A115: {
-    PDF: "",
+    PDF: "https://www.dropbox.com/scl/fi/9zwfxfef5niybxejcpu5k/A115-El-c-ndor-pasa-Arr.-Completo.pdf?rlkey=8sp5l84jm5zr6mbr0cpu92wkp&dl=0",
     MP3: "https://www.dropbox.com/scl/fi/ga1xvhicblbe2j2lrgp2w/El-C-ndor-pasa-Arr..mp3?rlkey=fs6el35a7fzp541frxyg1b7ko&dl=0"
   },
   A116: {
-    PDF: "",
+    PDF: "https://www.dropbox.com/scl/fi/92hw04opfdhfglw42ok7p/A116-Canciones-de-Tuna-1-Arr.-Completo.pdf?rlkey=ta01hexzm29qnr6ttbtv3k2wz&dl=0",
     MP3: "https://www.dropbox.com/scl/fi/99qjkonrauisqf832fp2c/Canciones-de-Tuna-1-Arr..mp3?rlkey=if3jl6ywyzxnqwrz2qfauyb6k&dl=0"
-  },
+  }, // ¡Hasta aquí! Aquí ya la web verá la luz.
   A117: {
     PDF: "",
     MP3: ""
